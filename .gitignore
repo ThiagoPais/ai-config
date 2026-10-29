@@ -1,0 +1,8 @@
+# per-machine settings (copy config.example.json -> config.json)
+**/config.json
+# managed by the Claude app
+skills/synced/
+# runtime/secrets
+*.credentials*
+.env
+__pycache__/

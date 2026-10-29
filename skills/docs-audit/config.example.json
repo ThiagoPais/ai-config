@@ -1,0 +1,5 @@
+{
+  "docs_root": "/absolute/path/to/your/docs-repo",
+  "reserved_dirs": ["templates", "guides", "tooling", "node_modules"],
+  "stale_days": 180
+}
